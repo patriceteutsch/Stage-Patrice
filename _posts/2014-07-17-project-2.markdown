@@ -1,0 +1,17 @@
+---
+title: Dicton et animaux
+subtitle: Exercice de diction
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: film4-hd.jpg
+thumbnail: film4-bd.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Dans la salle de classe dont l’espace central est dégagé. Un diaporama permet un rappel du vocabulaire et des consignes, l’image aide à l’acquisition du vocabulaire. Chaque diapositive est « mimée ».
+film: http://media.crdp-lorraine.fr/videos/MEDIA150825094406693/multimedia/MEDIA150825094406693.mp4
+fiche_pdf: pdf_fiche_2.pdf
+category: videos
+---

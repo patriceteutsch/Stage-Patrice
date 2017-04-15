@@ -1,0 +1,24 @@
+<!-- Team Section -->
+     <section id="ressources"  class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Ressources</h2>
+                    <h3 class="section-subheading text-muted">En ligne, innovantes et gratuites.</h3>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.data.ressources %}
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <a href="{{member.url}}" target="_blank"'><img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle img-thumbnail" alt=""></a>
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.resume }}</p>
+
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+        </div>
+    </section>

@@ -1,0 +1,17 @@
+---
+title: Virelangue
+subtitle: Exercer la bonne prononciation
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: film3-hd.jpg
+thumbnail: film3-bd.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Les élèves en cercle. Des phrases simples sont écrites sur des étiquettes placées dans une boîte. Un élève sort un papier. Il lit à voix haute. Tout le groupe répète ensuite à voix haute son virelangue avec correction du professeur. S’il y a lieu, chacun à son tour répète le virelangue en essayant de le mémoriser. Lorsque les élèves prononcent la phrase avec difficulté, le professeur fait répéter le mot en accentuant sur la particularité phonique.
+film: http://media.crdp-lorraine.fr/videos/MEDIA150821114515712/multimedia/MEDIA150821114515712.mp4
+fiche_pdf: pdf_fiche_5.pdf
+categories: videos
+---

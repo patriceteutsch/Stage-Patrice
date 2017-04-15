@@ -1,0 +1,17 @@
+---
+title: Mimer des animaux
+subtitle: Mimer une consigne
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: film6-hd.jpg
+thumbnail: film6-bd.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Les élèves sont en ligne, lors de l’exercice de mime ils peuvent se déplacer mais ils doivent se remettre très vite en ligne au signal (frappé des mains). Les consignes sont transmises en allemand. Utilisation du non-verbal pour aider à la compréhension des consignes.
+film: http://media.crdp-lorraine.fr/videos/MEDIA150819162757494/multimedia/MEDIA150819162757494.mp4
+fiche_pdf: pdf_fiche_3.pdf
+category: videos
+---

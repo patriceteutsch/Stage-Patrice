@@ -1,0 +1,8 @@
+---
+layout: style
+---
+
+{% include css/bootstrap.min.css %}
+{% include css/agency.css %}
+{% include css/custom.css %}
+{{ content }}

@@ -1,0 +1,29 @@
+- name: "Sesam'GR : le jeu"
+  pic: sesam
+  resume: "Ce jeu numérique de découverte interculturelle va vous emmener, en français et en allemand, à la découverte du territoire de la <b>Grande Région</b> !"
+  url: https://www.manuel-elan.eu/Sesam_GR/
+
+- name: "Pass Lingua"
+  pic: passl
+  resume: "Une pédagogie innovante d’apprentissage de l’allemand, articulée autour de ressources et de séquences pédagogiques utilisables en classe."
+  url: http://www.petitsateliers.fr/pass-lingua/
+
+- name: "Deutsch für Schulen"
+  pic: dfs
+  resume: "Découvrez un fonds de ressources sélectionnées par le <b>CNED</b> et régulièrement étoffé pour préparer vos cours d'allemand."
+  url: http://kinder.deutschfurschulen.fr
+
+- name: "Leben am Oberrhein"
+  pic: ork
+  resume: "Proposé par la <b>Conférence du Rhin Supérieur</b>, le manuel <i>Vivre dans le Rhin supérieur</i> veut sensibiliser les jeunes de 8 à 15 ans à ce qui les unit, les différencie et peut les rassembler."
+  url: http://www.oberrheinkonferenz.org/oberrheinschulbuch/indexd.htm
+
+- name: "Prim'Langues"
+  pic: priml
+  resume: "Site institutionnel d'accompagnement de l'enseignement des langues vivantes à l'école, <b>Primlangues</b> réunit séquences pédagogiques, activités pour la classe, et supports de cours."
+  url: http://www.primlangues.education.fr/
+
+- name: "Goethe Institut"
+  pic: gif
+  resume: "Le <b>Goethe-Institut</b> est l’institut culturel de la République fédérale d’Allemagne actif au niveau mondial. Ici, les pages destinées aux plus jeunes."
+  url: https://www.goethe.de/ins/fr/fr/spr/unt/kum/kin.html

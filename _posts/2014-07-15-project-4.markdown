@@ -1,0 +1,17 @@
+---
+title: Mimer des personnages
+subtitle: Réagir vite à une consigne
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: film2-hd.jpg
+thumbnail: film2-bd.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Les élèves sont en ligne, lors de l’exercice de mime ils peuvent se déplacer mais ils doivent se remettre très vite en ligne au signal (frappé des mains). Les consignes sont transmises en allemand. Utilisation du non-verbal pour aider à la compréhension des consignes.
+film: http://media.crdp-lorraine.fr/videos/MEDIA150821093901203/multimedia/MEDIA150821093901203.mp4
+fiche_pdf: pdf_fiche_4.pdf
+category: videos
+---

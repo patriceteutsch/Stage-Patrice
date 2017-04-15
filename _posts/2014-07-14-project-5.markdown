@@ -1,0 +1,17 @@
+---
+title: Mimer des émotions
+subtitle: Exercice de diction
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: film5-hd.png
+thumbnail: film5-bd.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Dans la salle de classe dont l’espace central est dégagé. Un diaporama permet un rappel du vocabulaire et des consignes, l’image aide à l’acquisition du vocabulaire.
+film: http://media.crdp-lorraine.fr/videos/MEDIA150825095033561/multimedia/MEDIA150825095033561.mp4
+fiche_pdf: pdf_fiche_6.pdf
+categories: videos
+---

@@ -1,0 +1,58 @@
+ <!-- Portfolio Modals -->
+ {% for post in site.posts %}
+    <div class="portfolio-modal modal fade" id="portfolioModal{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+        
+            <div class="container">
+                 
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>{{ post.title }}</h2>
+                            <hr class="star-primary">
+<!--                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}"> -->
+                            {% if post.film %}
+                                <video width="740"  height="360" src="{{ post.film }}"  controls autobuffer></video>
+                            {% endif %}
+                                                    
+                            <p>{{ post.description }}</p>
+                              <br>
+                         
+                          <div class="row">
+                                   <div class="list-inline item-details col-sm-6 alignRight">
+                                          <div><div class="strongbold">Âge :</div> 13 ans et plus</div>
+                                          <div><div class="strongbold">Niveau :</div> 1 - Débutant</div>
+                                          <div><div class="strongbold">Durée :</div> 10 minutes</div>
+                                   </div>
+
+                                   <div class="list-inline item-details col-sm-6 alignLeft traitgauche">
+                                          <div><div class="strongbold">Lieu :</div> Salle de classe, Salle vide</div>
+                                          <div><div class="strongbold">Effectif :</div> 10 maxi</div>
+                                          <div><div class="strongbold">Matériel :</div> une boîte contenant des virelangues allemand écrits sur des étiquettes</div>
+                                   </div>
+                          </div>
+                              <br>
+                              <br>
+                              <br>
+                         
+                          <div class="boutonfiche">
+                            <a href="img/portfolio/{{ post.fiche_pdf }}" target="_blank"><strong>Télécharger la fiche pédagogique</strong></a>
+                          </div>
+                         
+                         
+                         
+<!-- <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Fermer</button> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endfor %}

@@ -1,0 +1,17 @@
+---
+title: Lili Engel in Berlin
+subtitle: Un spectacle jeune public
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: film1-hd.jpg
+thumbnail: film1-bd.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "Pièce en allemand très facile pour les élèves du 1er degré par la compagnie Le Globe Théâtre. Lili Engel, une pétillante et mystérieuse bavaroise, perd son parapluie magique lors d'une visite à Berlin. Elle appelle à la rescousse le détective Thomas Bürger. Ils traversent la Capitale à la recherche de l’objet qui permettra à Lili d’emmener les enfants dans son univers magique avant de s’envoler vers d’autres destinations."
+film: https://www.reseau-canope.fr/imedia/videos/sesam-gr/lili_engel_in_berlin_version_travail01.mp4
+fiche_pdf: pdf_fiche_1.pdf
+category: videos
+---
